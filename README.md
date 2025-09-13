@@ -25,7 +25,7 @@ Easily generate AI images from text prompts, toggle between light/dark themes, a
 🎥 Video Preview
 
 Here’s a short demo of the app in action:
-<!-- Uploading "AI image generator.mp4"... -->
+https://github.com/user-attachments/assets/1e2612df-dc82-4ead-a948-99b8d23488d0
 
 (Replace with your GitHub-hosted video or YouTube demo link.)
 
